@@ -1,7 +1,7 @@
 ## 🏠 Smart Home - Description
 
 ### Images of the House
-![Living Room](https://imgur.com/a/YSZXcCi)
+![Living Room]https://imgur.com/a/YSZXcCi
 ![Kitchen](https://www.example.com/kitchen.jpg)
 ![Bedroom](https://www.example.com/bedroom.jpg)
 
