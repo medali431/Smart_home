@@ -12,4 +12,4 @@
 <a href="https://www.youtube.com/watch?v=examplevideoid2">
   <img src="https://img.youtube.com/vi/examplevideoid2/0.jpg" alt="Smart Home Features" width="400" />
 </a>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/YSZXcCi"  ><a href="//imgur.com/a/YSZXcCi">HOme</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
