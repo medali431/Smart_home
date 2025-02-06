@@ -10,7 +10,7 @@
 <h3>Introduction Videos</h3>
 <h3>Smart Home Videos</h3>
 
-<a href="https://github.com/medali431/images/blob/main/4.mp4" target="_blank">
+<a href="4.mp4" target="_blank">
   <img src="https://via.placeholder.com/400x250.png?text=Click+to+Watch+Smart+Home+Tour" alt="Smart Home Tour" width="400" />
 </a>
 
