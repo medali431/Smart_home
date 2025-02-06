@@ -7,15 +7,4 @@
  
 </div>
 
-<h3>Introduction Videos</h3>
-<h3>Smart Home Videos</h3>
-
-<a href="4.mp4" target="_blank">
-  <img src="https://via.placeholder.com/400x250.png?text=Click+to+Watch+Smart+Home+Tour" alt="Smart Home Tour" width="400" />
-</a>
-
-<a href="https://www.youtube.com/watch?v=examplevideoid2" target="_blank">
-  <img src="https://img.youtube.com/vi/examplevideoid2/0.jpg" alt="Smart Home Features" width="400" />
-</a>
-
 
