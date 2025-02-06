@@ -1,7 +1,7 @@
 <h2>🏠 Smart Home - Description</h2>
 
 <h3>Images of the House</h3>
-<img src="https://github.com/yourusername/yourrepository/blob/main/images/living-room.jpg" alt="Living Room" width="400" />
+<img src="[https://github.com/yourusername/yourrepository/blob/main/images/living-room.jpg](https://imgur.com/a/YSZXcCi)" alt="Living Room" width="400" />
 <img src="https://github.com/yourusername/yourrepository/blob/main/images/kitchen.jpg" alt="Kitchen" width="400" />
 <img src="https://github.com/yourusername/yourrepository/blob/main/images/bedroom.jpg" alt="Bedroom" width="400" />
 
