@@ -1,9 +1,12 @@
-## 🏠 Maison Intelligente - Description
+## 🏠 Smart Home - Description
 
-### Image de la maison
-![Maison Intelligente](https://www.example.com/image-de-maison.jpg)
+### Images of the House
+![Living Room](https://imgur.com/a/YSZXcCi)
+![Kitchen](https://www.example.com/kitchen.jpg)
+![Bedroom](https://www.example.com/bedroom.jpg)
 
-### Vidéo de présentation
-[![Présentation de la Maison Intelligente](https://img.youtube.com/vi/examplevideoid/0.jpg)](https://www.youtube.com/watch?v=examplevideoid)
+### Introduction Videos
+[![Smart Home Tour](https://img.youtube.com/vi/examplevideoid1/0.jpg)](https://www.youtube.com/watch?v=examplevideoid1)
+[![Smart Home Features](https://img.youtube.com/vi/examplevideoid2/0.jpg)](https://www.youtube.com/watch?v=examplevideoid2)
 
-*Cliquez sur l'image pour voir la vidéo de présentation de la maison intelligente.*
+*Click on the images to watch the videos of the Smart Home tour and features.*
