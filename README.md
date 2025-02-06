@@ -1,12 +1,14 @@
-## 🏠 Smart Home - Description
+<h2>🏠 Smart Home - Description</h2>
 
-### Images of the House
-![Living Room](https://imgur.com/a/YSZXcCi)
-![Kitchen](https://www.example.com/kitchen.jpg)
-![Bedroom](https://www.example.com/bedroom.jpg)
+<h3>Images of the House</h3>
+<img src="https://github.com/yourusername/yourrepository/blob/main/images/living-room.jpg" alt="Living Room" width="400" />
+<img src="https://github.com/yourusername/yourrepository/blob/main/images/kitchen.jpg" alt="Kitchen" width="400" />
+<img src="https://github.com/yourusername/yourrepository/blob/main/images/bedroom.jpg" alt="Bedroom" width="400" />
 
-### Introduction Videos
-[![Smart Home Tour](https://img.youtube.com/vi/examplevideoid1/0.jpg)](https://www.youtube.com/watch?v=examplevideoid1)
-[![Smart Home Features](https://img.youtube.com/vi/examplevideoid2/0.jpg)](https://www.youtube.com/watch?v=examplevideoid2)
-
-*Click on the images to watch the videos of the Smart Home tour and features.*
+<h3>Introduction Videos</h3>
+<a href="https://www.youtube.com/watch?v=examplevideoid1">
+  <img src="https://img.youtube.com/vi/examplevideoid1/0.jpg" alt="Smart Home Tour" width="400" />
+</a>
+<a href="https://www.youtube.com/watch?v=examplevideoid2">
+  <img src="https://img.youtube.com/vi/examplevideoid2/0.jpg" alt="Smart Home Features" width="400" />
+</a>
